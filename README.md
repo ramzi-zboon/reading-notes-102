@@ -15,11 +15,11 @@ Hello everyone,My name is **ahmad zboon**, I am 23years old
 | --- | --- | --- |
 | read1 | Markdown & Github | [Link1](https://github.com/ahmad-zboon/read01.git) |
 | read2 | Git | [Link2](https://github.com/ahmad-zboon/read02.git) |
-| read3 | Wireframming | [Link3](https://b-aq.github.io/reading-notes/102/read3) |
-| read4 | CSS | [Link4](https://b-aq.github.io/reading-notes/102/read4) |
-| read5 | HTML | [Link5](https://b-aq.github.io/reading-notes/102/read5) |
-| read6 | JS Expressions, Operators & Control flow | [Link6](https://b-aq.github.io/reading-notes/102/read6) |
-| read7 | JS Operators and Loops | [Link7](https://b-aq.github.io/reading-notes/102/read7) |
-| read8 | Functions | [Link8](https://b-aq.github.io/reading-notes/102/read8) |
+| read3 | Wireframming | [Link3](https://github.com/ahmad-zboon/read03.git) |
+| read4 | CSS | [Link4](https://github.com/ahmad-zboon/read04.git) |
+| read5 | HTML | [Link5](https://github.com/ahmad-zboon/read05.git) |
+| read6 | JS Expressions, Operators & Control flow | [Link6](https://github.com/ahmad-zboon/read06.git) |
+| read7 | JS Operators and Loops | [Link7](https://github.com/ahmad-zboon/read07.git) |
+| read8 | Functions | [Link8](https://github.com/ahmad-zboon/read08.git) |
 
 ---
